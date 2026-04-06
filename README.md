@@ -65,5 +65,5 @@ Você pode facilmente mudar o conteúdo gerado alterando os valores do PromptTem
     publico="estudantes do ensino médio")
 Isso permite criar explicações personalizadas para diferentes áreas e públicos.
 
-Autor
+Autor  
   Desenvolvido por Juliano Rodrigues Madeira
