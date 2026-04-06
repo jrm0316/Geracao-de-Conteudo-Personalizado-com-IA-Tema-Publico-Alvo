@@ -64,3 +64,6 @@ Você pode facilmente mudar o conteúdo gerado alterando os valores do PromptTem
     tema="Inteligência Artificial",
     publico="estudantes do ensino médio")
 Isso permite criar explicações personalizadas para diferentes áreas e públicos.
+
+Autor
+  Desenvolvido por Juliano Rodrigues Madeira
