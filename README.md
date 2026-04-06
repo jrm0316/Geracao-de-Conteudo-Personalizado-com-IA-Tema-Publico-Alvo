@@ -66,4 +66,4 @@ Você pode facilmente mudar o conteúdo gerado alterando os valores do PromptTem
 Isso permite criar explicações personalizadas para diferentes áreas e públicos.
 
 Autor  
-  Desenvolvido por Juliano Rodrigues Madeira
+   Desenvolvido por Juliano Rodrigues Madeira
