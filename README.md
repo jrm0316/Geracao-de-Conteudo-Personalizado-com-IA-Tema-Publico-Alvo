@@ -39,7 +39,7 @@ projeto/
 Como executar o projeto
 
   1.) Clone o repositório
-    git clone https://github.com/seu-usuario/Explica-o-tema-e-publico-alvo-com-LangChain-e-Groq.git
+    git clone https://github.com/jrm0316/Geracao-de-Conteudo-Personalizado-com-IA-Tema-Publico-Alvo/blob/main/README.md
 
   2.) Crie e ative um ambiente virtual (opcional)
       python -m venv venv
